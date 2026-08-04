@@ -1,0 +1,8 @@
+Item No,Description,Unit,Unit Price (USD),Original Qty,Original Item Price (USD),New Qty,New Item Price (USD),Difference (USD),Source Page
+MA-021,"Gear pumps and Centrifugal pumps",job,15300,1,15300,0,0,-15300,Page 8
+EL-008,"Electric Motors",job,11198,1,11198,0,0,-11198,Page 9
+MI-017,"Bunker tanks cleaning",job,4866,1,4866,0,0,-4866,Page 11
+EL-009,"Electric Motor re-winding (allow for 10KW)",set,616,1,616,5,3080,2464,Page 9
+EL-013,"Cleaning of Echo Sounder, Doppler Log, Satellite Log Transducer",set,450,3,1350,4,1800,450,Page 9
+MA-020,"Allow to remove and refit 10m2 floor plates for access",m2,35,10,350,11,385,35,Page 8
+MA-011,"Boiler open up and close",job,300,1,300,2,600,300,Page 6
