@@ -1,0 +1,15 @@
+Item No,Sub-item,Description EN,Description CN,Unit,Unit Price (USD),Original Qty,Original Item Price (USD),New Qty,New Item Price (USD),Difference (USD),Remarks,Source Page
+MA-021,,Gear pumps and Centrifugal pumps,齿轮泵与离心泵,job,15300,1,15300,0,0,-15300,Removed per adjustment,Page 8
+EL-008,,Electric Motors,电动机,job,11198,1,11198,0,0,-11198,Removed per adjustment,Page 9
+MI-017,,Bunker tanks cleaning,燃油舱清洁,job,4866,1,4866,0,0,-4866,Removed per adjustment,Page 11
+EL-009,,Electric Motor re-winding (allow for 10KW),电动机重绕（10KW），set,616,1,616,5,3080,2464,Qty increased for balance,Page 9
+EL-013,,Cleaning of Echo Sounder, Doppler Log, Satellite Log Transducer,回声测深/多普勒/卫星换能器清洁,set,450,3,1350,4,1800,450,Qty increased for balance,Page 9
+MA-020,,Allow to remove and refit 10m2 floor plates for access,允许拆除并复装10m2地板板, m2,35,10,350,11,385,35,Qty increased for balance,Page 8
+MA-011,,Boiler open up and close,锅炉开拆合,job,300,1,300,2,600,300,Qty increased for balance,Page 6
+
+Summary,,,
+Original total (before adjustments),, , , , , , ,519,367 USD
+Adjusted total (before discount),, , , , , , ,491,252 USD
+Adjusted total (after 10% discount),, , , , , , ,442,127 USD
+
+Notes: HS-001 (Hydro blasting WA2.0) and Full coating (HS line) were kept unchanged as requested. All quantity changes are integers. Adjustments recorded in adjustments.csv in repository.
